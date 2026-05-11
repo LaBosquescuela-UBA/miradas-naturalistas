@@ -1,7 +1,7 @@
 # Miradas Naturalistas — Micro-Cursos
 
 ## Overview
-Sitio editorial de **scroll-storytelling** diseñado para **LaBosquescuela UBA**. El proyecto ofrece un recorrido inmersivo por el ecosistema de los Cerros Orientales de Bogotá a través de cinco micro-cursos, integrando fotografía de alta resolución, glosario interactivo y una bitácora personal para el visitante.
+Sitio diseñado para **LaBosquescuela UBA**. El proyecto ofrece un recorrido inmersivo por el ecosistema de los Cerros Orientales de Bogotá a través de cinco micro-cursos, integrando fotografía de alta resolución, glosario interactivo y una bitácora personal para el visitante.
 
 **Producción**: [micro-cursos.labosquescuela.org](https://micro-cursos.labosquescuela.org)
 
