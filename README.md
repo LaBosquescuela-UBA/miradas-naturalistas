@@ -39,5 +39,8 @@ npm run deploy       # Build y despliegue a Firebase
 - **Interacción**: Tarjetas de glosario con efecto 3D y sistema de "favoritos" en la bitácora.
 - **Accesibilidad**: Navegación por teclado, etiquetas ARIA completas y soporte para `prefers-reduced-motion`.
 
+## Licencia
+Este proyecto está bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. 
+
 ---
-*Producción original de LaBosquescuela UBA - MangleRojo ORG · Mayo 2026*
+*Producción original de LaBosquescuela UBA - MangelRojo·ORG · Mayo 2026*
