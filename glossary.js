@@ -12,21 +12,21 @@ window.GLOSSARY = [
   {
     id: "agaricomycetes",
     term: "Agaricomycetes",
-    cat: "Glosario",
+    cat: "Hongos basidiomicetos",
     course: "03",
     def: "Agaricomycetes es un gran conjunto de hongos Basidiomicete que producen cuerpos fructíferos conspicuos, es decir, notorios, sobresalen por su típica forma de setas, abanicos entre lo más habitual. Ejemplo: la mayoría de los hongos comestibles son Agaricomycetes, incluyendo saprófitos (descomponedores) cultivados, como Agaricus bisporus (champiñón), Pleurotus ostreatus (seta ostra) y Lentinula edodes (shiitake), y especies ectomicorrícicas (ECM) recolectadas en la naturaleza, como Boletus edulis (porcini), Cantharellus cibarius (rebozuelo) y Tricholoma matsutake (matsutake)."
   },
   {
     id: "algas",
     term: "Algas",
-    cat: "Glosario",
+    cat: "Organismos protistas",
     course: "02",
     def: "Organismos protistas que habitan siempre ambientes húmedos, en el mar, en agua dulce o incluso fuera del medio acuático, implica una zona transicional donde exista humedad para que puedan habitar."
   },
   {
     id: "antioxidante",
     term: "Antioxidante",
-    cat: "Glosario",
+    cat: "Moléculas protectoras",
     course: "02",
     def: "Moléculas con características bioquímicas que evitan el daño celular o el envejecimiento."
   },
@@ -47,35 +47,35 @@ window.GLOSSARY = [
   {
     id: "areolas",
     term: "Areolas",
-    cat: "Glosario",
+    cat: "Bordes liquénicos",
     course: "03",
     def: "Son los bordes coloreados en tonos más claros en las pieles liquénicas."
   },
   {
     id: "ascas",
     term: "Ascas",
-    cat: "Glosario",
+    cat: "Estructuras microscópicas",
     course: "05",
     def: "Son estructuras microscópicas en forma de sacos o bolsas que pueden ser esféricos, piriformes, globosos, ovales, cilíndricos, en donde se forman las esporas."
   },
   {
     id: "ascomicete",
     term: "Ascomicete",
-    cat: "Glosario",
+    cat: "División de hongos",
     course: "05",
     def: "Es una división de hongos con micelio tabicado (segmentado) que producen ascosporas endógenas (de manera interna)."
   },
   {
     id: "atmosfera",
     term: "Atmósfera",
-    cat: "Glosario",
+    cat: "Capas de gases",
     course: "01",
     def: "Está formada por las capas de gases que rodean un planeta u otro cuerpo celeste. En el caso de la Tierra, la protege de la radiación ultravioleta (UV), mantiene el planeta caliente mediante el aislamiento térmico y evita las temperaturas extremas entre el día y la noche. Estos gases se encuentran en capas atmosféricas (troposfera, estratosfera, mesosfera, termosfera y exosfera) definidas por características únicas como la temperatura y la presión."
   },
   {
     id: "autotrofa",
     term: "Autótrofa",
-    cat: "Glosario",
+    cat: "Productores de energía",
     course: "05",
     def: "Organismo que puede transformar materia inorgánica en materia orgánica para su sostenimiento. Puede ser utilizando la energía de la luz (fotosíntesis), o por medio de la pudrición para descomponer en moléculas más sencillas y nutricias."
   },
@@ -89,21 +89,21 @@ window.GLOSSARY = [
   {
     id: "basidios",
     term: "Basidios",
-    cat: "Glosario",
+    cat: "Órganos reproductores",
     course: "03",
     def: "Órganos donde se desarrollan las esporas de origen sexual en hongos y líquenes basidiomycetes."
   },
   {
     id: "basidioliquen",
     term: "Basidioliquen",
-    cat: "Glosario",
+    cat: "Líquenes ascomycota",
     course: "05",
     def: "Son un grupo muy reducido de líquenes. Los más comunes son los ascolíquenes asociados a los hongos Ascomycota. Al estudiar las estructuras reproductivas, se pueden observar basidios, caracterizando su manera de reproducción biológica."
   },
   {
     id: "basidioma-basidiocarpo",
     term: "Basidioma / Basidiocarpo",
-    cat: "Glosario",
+    cat: "Cuerpo fructífero",
     course: "05",
     def: "Cuerpo fructífero reproductor de hongos basidiomycetes incluso basidiolíquenes. Aquí se contienen los basidios."
   },
@@ -117,7 +117,7 @@ window.GLOSSARY = [
   {
     id: "basidiosporas",
     term: "Basidiosporas",
-    cat: "Glosario",
+    cat: "Células reproductivas",
     course: "05",
     def: "Son las células reproductivas de los hongos y los líquenes (microscópicas) pertenecientes al grupo de los Basidiomicetes."
   },
@@ -131,35 +131,35 @@ window.GLOSSARY = [
   {
     id: "biometeorologia",
     term: "Biometeorología",
-    cat: "Glosario",
+    cat: "Ciencia interdisciplinar",
     course: "01",
     def: "Es la ciencia interdisciplinar que estudia cómo los estados del tiempo, las condiciones climáticas (variaciones en la temperatura, la humedad, la presión atmosférica y el viento) influyen en los seres vivos y su funcionamiento como ecosistemas."
   },
   {
     id: "biomimesis",
     term: "Biomímesis",
-    cat: "Glosario",
+    cat: "Principios biológicos",
     course: "03",
     def: "Son principios biológicos adaptativos de la inteligencia natural para participar de la agencia ecológica del lugar que habita, para vivir en sincronía con su entorno."
   },
   {
     id: "biomonitor",
     term: "Biomonitor",
-    cat: "Glosario",
+    cat: "Organismos bioacumuladores",
     course: "05",
     def: "Son  organismos  que, además de detectar cambios, acumulan  contaminantes  en  sus  tejidos,  permitiendo  conocer  su  concentración en el entorno, funcionando como bioacumuladores que ofrecen información específica sobre la presencia y los niveles de contaminantes dentro de un ecosistema (Wang, 2016)."
   },
   {
     id: "bionte",
     term: "Bionte",
-    cat: "Glosario",
+    cat: "Organismos simbióticos",
     course: "05",
     def: "Somos cada uno de los organismos que hacemos parte de la relación simbiótica. También nos llaman Simbiontes. Ejemplos: en el proceso simbiótico de la liquenización, se refiere tanto a los micobiontes (organismo fungi), como a los fotobiontes (organismos algas). El ecosistema vital de billones de bacterias asociadas al proceso digestivo humano, que aprovecha y transforma los alimentos, descomponiéndolos en moléculas que cada conjunto de órganos pueda absorber para convertir en energía."
   },
   {
     id: "biotipo",
     term: "Biotipo",
-    cat: "Glosario",
+    cat: "Formas de crecimiento",
     course: "05",
     def: "Es la forma de crecimiento de cualquier forma de vida, de donde nos distinguen o  destacamos entre el ecosistema por las formas diversas. Ejemplo: en los líquenes se distinguen los tipos foliáceo y fruticoso, pero también los hay crustáceo, dimórfico, escuamuloso."
   },
@@ -173,7 +173,7 @@ window.GLOSSARY = [
   {
     id: "bosque-alto-andino",
     term: "Bosque Alto Andino",
-    cat: "Glosario",
+    cat: "Ecosistemas montañosos",
     course: "03",
     def: "Son ecosistemas boscosos de montaña presentes en condiciones climáticas secas, estacionalmente húmedas y húmedas, con un rango de elevación que va de los 1000 hasta los 3500 m s. n. m. o 5000 m s. n. m., dependiendo de su ubicación. Representan paisajes frágiles y zonas de alta importancia para la concentración y flujo de la niebla."
   },
@@ -187,84 +187,84 @@ window.GLOSSARY = [
   {
     id: "carpoforo",
     term: "Carpóforo",
-    cat: "Glosario",
+    cat: "Seta o fruto",
     course: "05",
     def: "Es la forma típica de seta que se observa cuando un hongo produce sus frutos. Del extremo de los micelios fructifica el cuerpo fructífero: “seta o carpóforo” formado en su mayoría, por un tejido estéril. Su zona fértil se configura en el Himenio."
   },
   {
     id: "cianobacteria",
     term: "Cianobacteria",
-    cat: "Glosario",
+    cat: "Bacterias fotosintéticas",
     course: "05",
     def: "Son organismos microscópicos, bacterias gram-negativas, que contienen clorofila, lo que les permite realizar la fotosíntesis. Por ello, históricamente se las ha identificado como algas verde-azules. Están presentes en aguas dulces, saladas, salobres y zonas de mezcla de estuarios, en concentraciones diversas que varían de acuerdo a los factores limitantes de su crecimiento."
   },
   {
     id: "cifelas-y-pseudocifelas",
     term: "Cifelas y pseudocifelas",
-    cat: "Glosario",
+    cat: "Poros liquénicos",
     course: "05",
     def: "Son los poros del talo liquénico. Realizan la ventilación y el intercambio de gases."
   },
   {
     id: "cefalodios",
     term: "Cefalodios",
-    cat: "Glosario",
+    cat: "Estructuras especializadas",
     course: "05",
     def: "Son pequeñas partes especializadas en el talo de un liquen, pueden tener formas de verrugas o pronunciaciones en donde habitan cianobacterias como fotobionte secundario. Fijan el nitrógeno para mejorar la supervivencia del liquen en un entorno con escasez de nutrientes o ambientalmente extremo."
   },
   {
     id: "cilios",
     term: "Cilios",
-    cat: "Glosario",
+    cat: "Prolongaciones fúngicas",
     course: "03",
     def: "Prolongaciones fúngicas de la cara superior de un liquen. Sirven para captar humedad."
   },
   {
     id: "cinturon-de-las-ericaceas",
     term: "Cinturón de las Ericáceas",
-    cat: "Glosario",
+    cat: "Franja transicional",
     course: "02",
     def: "Es una franja de vegetación muy importante para la transición ecológica entre las zonas de Páramo y subpáramo en los Andes, se les encuentra principalmente en ambientes expuestos y secos, se comportan como plantas pioneras y aparecen como comunidades de arbustos enanos perennes que no superan los 80 centímetros de altura, y otras agrupaciones hasta 3 m; pero se han conformado alrededor de todos los continentes. Se encuentran en varios sistemas montañosos, en zonas africanas, estas franjas están conformadas en zonas más bajas con mayor temperatura y árboles de mayor porte, hasta 12 m de altura."
   },
   {
     id: "coriacea",
     term: "Coriácea",
-    cat: "Glosario",
+    cat: "Textura resistente",
     course: "05",
     def: "Es una textura gruesa, resistente y algo flexible, similar al cuero. Estas hojas no se rasgan fácilmente, lo que les ayuda a retener agua y resistir climas extremos."
   },
   {
     id: "corredor-biologico",
     term: "Corredor biológico",
-    cat: "Glosario",
+    cat: "Conexión geográfica",
     course: "05",
     def: "Son espacios geográficos o franjas que conectan áreas protegidas o hábitats fragmentados, permitiendo el tránsito de organismos, el intercambio genético y la dispersión de semillas, ayudan a los ecosistemas a recuperarse de desastres y adaptarse a las variaciones del clima. Unen diferentes ecosistemas, desde regiones andinas hasta amazónicas, manteniendo la continuidad de la biodiversidad. Ejemplo: En Bogotá, el canal del Virrey es un corredor ecológico vital para la movilidad de las especies entre los cerros orientales y los cuerpos de agua de la sabana inundable, los humedales de Nor-occidente. En Colombia, los Parques Nacionales Naturales mantienen una interconexión imprescindible para el flujo ecológico y climático entre los Andes y la Amazonía."
   },
   {
     id: "corticola",
     term: "Cortícola",
-    cat: "Glosario",
+    cat: "Hábito cortícola",
     course: "05",
     def: "Creciendo sobre cortezas de árboles."
   },
   {
     id: "costroso",
     term: "Costroso",
-    cat: "Glosario",
+    cat: "Liquen costroso",
     course: "03",
     def: "También le llaman crustáceo, crustoso. Es la forma del cuerpo del líquen que se encuentra siempre en estrecho contacto con el sustrato, carecen de córtex inferior y no se pueden separar de él sin destruirlas; se sujetan al sustrato por medio de la médula o de un hipotalo; pueden estar por encima (epi-) o por dentro (endo-) del sustrato."
   },
   {
     id: "creatividad-ecologica",
     term: "Creatividad ecológica",
-    cat: "Glosario",
+    cat: "Capacidad sensible",
     course: "03",
     def: "Es la capacidad sensible de detectar detalles de interconexión en la ecología del lugar que habitamos, y de interpretar los interminables hilos invisibles que permiten la vida en todas partes."
   },
   {
     id: "criptobiosis",
     term: "Criptobiosis",
-    cat: "Glosario",
+    cat: "Estrategia de latencia",
     course: "05",
     def: "[Hacerse el muerto]. Estrategia evolutiva mediante la cual los organismos superan las condiciones ambientales adversas entrando en un modo de latencia, considerado el tercer estado entre la vida y la muerte."
   },
@@ -278,35 +278,35 @@ window.GLOSSARY = [
   {
     id: "cuticula",
     term: "Cutícula",
-    cat: "Glosario",
+    cat: "Capa cerosa",
     course: "02",
     def: "Es una capa cerosa que recubre hojas y tallos en las plantas, puede ser una estructura protectora contra la desecación, bacterias, hongos y absorber la luz."
   },
   {
     id: "dimorfico",
     term: "Dimórfico",
-    cat: "Glosario",
+    cat: "Morfología dual",
     course: "05",
     def: "Cuando el cuerpo de un liquen puede presentar dos maneras de desarrollar su morfología, puede tener algunas estructuras foliosas y otras fruticosas."
   },
   {
     id: "dosel",
     term: "Dosel",
-    cat: "Glosario",
+    cat: "Capa superior boscosa",
     course: "03",
     def: "Es la capa superior de un bosque o selva, formado por el conjunto de las copas de los árboles más altos en donde puede encontrarse una alta biodiversidad. Es vital regulando la luz solar, la humedad y como protección de la erosión para el suelo."
   },
   {
     id: "ecologia",
     term: "Ecología",
-    cat: "Glosario",
+    cat: "Interacciones biológicas",
     course: "02",
     def: "Puede constituirse como la lectura sobre las interacciones de los organismos entre sí y con su ambiente o entorno. También se considera como rama de la biología que estudia las interacciones que determinan la distribución, abundancia, número y organización de los organismos en los ecosistemas."
   },
   {
     id: "ecosistema",
     term: "Ecosistema",
-    cat: "Glosario",
+    cat: "Comunidad biológica",
     course: "03",
     def: "Puede considerarse como un conjunto de organismos que interactúan con su ambiente, mediante procesos simbióticos, configurando de manera contínua ciclos de energía y materia."
   },
@@ -320,7 +320,7 @@ window.GLOSSARY = [
   {
     id: "emergencia-emergente",
     term: "Emergencia / Emergente",
-    cat: "Glosario",
+    cat: "Dinámica regenerativa",
     course: "05",
     def: "Situación ecológica que anuncia dinámicas complejas de la regeneración del Bosque, y también de la aparición de formas de vida no habituales en un lugar."
   },
@@ -348,21 +348,21 @@ window.GLOSSARY = [
   {
     id: "erosion",
     term: "Erosión",
-    cat: "Glosario",
+    cat: "Desgaste superficial",
     course: "05",
     def: "Es el desgaste, degradación o remoción de material superficial por la acción de agentes naturales o artificiales sobre un suelo o un ecosistema."
   },
   {
     id: "escarpado",
     term: "Escarpado",
-    cat: "Glosario",
+    cat: "Laderas de difícil acceso",
     course: "05",
     def: "Son zonas de laderas, montañas o acantilados de difícil acceso. En la alta montaña, es posible que en las formaciones rocosas muy afiladas, la intensa radiación, vientos y lluvias impidan el desarrollo de coberturas de vegetación y esto mantiene las rocosidades desnudas."
   },
   {
     id: "escuamuloso",
     term: "Escuamuloso",
-    cat: "Glosario",
+    cat: "Morfología escamosa",
     course: "03",
     def: "Es la morfología de líquenes crustáceos más especializados y representan el paso hacia los foliáceos; tienen forma de escamas o ampollas y tienden a separarse del sustrato por las márgenes."
   },
@@ -376,7 +376,7 @@ window.GLOSSARY = [
   {
     id: "esporas",
     term: "Esporas",
-    cat: "Glosario",
+    cat: "Células reproductivas",
     course: "01",
     def: "También se llaman Ascosporas o ascas. Son las células sexuales, que análogo a una semilla, podrían perpetuar y extender a un organismo. Son micropartículas hacedoras de lluvia por excelencia, al llevar en su apéndice hilar microgotas de manitol que actúan como imanes para conformar verdaderas gotas de agua. Son estas diminutas células las que hacen a los hongos los “verdaderos hacedores de lluvia”."
   },
@@ -390,42 +390,42 @@ window.GLOSSARY = [
   {
     id: "evapotranspiracion",
     term: "Evapotranspiración",
-    cat: "Glosario",
+    cat: "Transferencia de humedad",
     course: "01",
     def: "Es un proceso en el que la atmósfera adquiere la humedad que se eleva a partir del suelo y las plantas."
   },
   {
     id: "farinoso",
     term: "Farinoso",
-    cat: "Glosario",
+    cat: "Textura granulosa",
     course: "03",
     def: "Es una textura que adquiere la piel liquénica cuando está cubierta con un polvillo blanquecino, simula una textura granulosa."
   },
   {
     id: "filamentoso",
     term: "Filamentoso",
-    cat: "Glosario",
+    cat: "Talo filamentoso",
     course: "03",
     def: "Talo formado por un fotobionte filamentoso con los filamentos envueltos por hifas del micobionte."
   },
   {
     id: "filogenia",
     term: "Filogenia",
-    cat: "Glosario",
+    cat: "Origen y evolución",
     course: "02",
     def: "Es una rama de la biología que se encarga de estudiar el origen y evolución de los seres vivos, ha servido para establecer relaciones entre los organismos a partir de su ADN, ARN, anatomía, embriología, morfología y otros datos biológicos de interés. La información obtenida ayuda a entender mejor la evolución de las distintas especies, sus semejanzas, diferencias, relaciones y su rol en el árbol filogenético de la vida."
   },
   {
     id: "fisiologia",
     term: "Fisiología",
-    cat: "Glosario",
+    cat: "Funciones biológicas",
     course: "01",
     def: "Hace referencia a procesos relacionados con las funciones de los seres vivos o unidades vivas integradas, es decir: células, tejidos, órganos y organismos. Algunos ejemplos de procesos fisiológicos incluyen la fotosíntesis en las plantas, la respiración en los animales, la circulación sanguínea, la digestión y la reproducción."
   },
   {
     id: "flabeliforme",
     term: "Flabeliforme",
-    cat: "Glosario",
+    cat: "Forma de abanico",
     course: "03",
     def: "Que tiene forma de abanico."
   },
@@ -439,84 +439,84 @@ window.GLOSSARY = [
   {
     id: "foliaceo",
     term: "Foliáceo",
-    cat: "Glosario",
+    cat: "Forma foliosa",
     course: "05",
     def: "También le llaman Folioso, es la forma de crecimiento de los liquenes que se asemeja a una lámina u hoja adherida al sustrato."
   },
   {
     id: "foliicola",
     term: "Foliícola",
-    cat: "Glosario",
+    cat: "Hábito foliícola",
     course: "05",
     def: "Que crece sobre hojas de plantas vasculares."
   },
   {
     id: "fotobionte-fotomorfo",
     term: "Fotobionte / Fotomorfo",
-    cat: "Glosario",
+    cat: "Compañero fotosintético",
     course: "05",
     def: "Es el compañero bionte que habita como parte de la relación simbiótica de liquenización, desempeñando la función fotosintética (Algas verdes o cianobacterias). Entrega azúcares al hongo a cambio de refugio y minerales."
   },
   {
     id: "fruticoso-fruticuloso",
     term: "Fruticoso / Fruticuloso",
-    cat: "Glosario",
+    cat: "Forma arbustiva",
     course: "05",
     def: "Forma de crecimiento de los líquenes que se asemeja a un pequeño arbusto fijado al sustrato por un solo punto."
   },
   {
     id: "geometria-fractalica",
     term: "Geometría fractálica",
-    cat: "Glosario",
+    cat: "Organización natural",
     course: "03",
     def: "Son formas arquitectónicas de organización de la inteligencia natural."
   },
   {
     id: "habito-de-vida",
     term: "Hábito de vida",
-    cat: "Glosario",
+    cat: "Formas corporales",
     course: "05",
     def: "Son las formas corporales que adquiere un organismo para situarse en un ecosistema. La forma que adquiere un organismo determina las estrategias para resolver sus necesidades sin perder comunicación con su entorno. Ejemplo: planta con forma de roseta, líquen con forma de folios, algas con forma de bastoncillos, raíces pivotantes o rizomatosas."
   },
   {
     id: "haustorios",
     term: "Haustorios",
-    cat: "Glosario",
+    cat: "Extremos fúngicos",
     course: "05",
     def: "Son los extremos de la hifas de un hongo simbionte que penetra las células algales para extraer los carbohidratos, producto de la fotosíntesis."
   },
   {
     id: "herbazal",
     term: "Herbazal",
-    cat: "Glosario",
+    cat: "Capa regenerativa",
     course: "02",
     def: "Capa regenerativa de los Bosques, conformadas por plantas herbáceas de corta vida. Configuran situaciones ecológicas emergentes como el nodricismo, es decir, preparación del lugar para acunar las semillas de plantas mayores, como árboles de gran porte que conformarán la madurez del futuro bosque."
   },
   {
     id: "hidrologia",
     term: "Hidrología",
-    cat: "Glosario",
+    cat: "Ciclo del agua",
     course: "05",
     def: "Es la ciencia que estudia el agua en la Tierra: su origen, movimiento, distribución y sus propiedades físicas, químicas y mecánicas, para entender las maneras en que el ciclo del agua afecta las relaciones entre ecosistemas."
   },
   {
     id: "hifas",
     term: "Hifas",
-    cat: "Glosario",
+    cat: "Estructuras fúngicas",
     course: "01",
     def: "Son unidades estructurales (microscópicas) de la mayoría de los hongos, sobre todo en los filamentosos. Si presentan tabiques transversales en forma de número regular, con un poro de comunicación en el centro, son hifas septadas. Cuando las hifas carecen de tabique se denominan aseptadas."
   },
   {
     id: "himenio",
     term: "Himenio",
-    cat: "Glosario",
+    cat: "Zona fértil",
     course: "04",
     def: "Es la zona fértil de la seta o carpóforo, en donde se ubican las láminas, los tubos, los aguijones, y, en ciertos casos, con una superficie lisa o ligeramente arrugada."
   },
   {
     id: "hipotalo",
     term: "Hipotalo",
-    cat: "Glosario",
+    cat: "Capa inferior liquénica",
     course: "05",
     def: "Capa debajo del talo formado por hifas entreteladas o compactadas, frecuentemente marrón oscuro a negro."
   },
@@ -530,77 +530,77 @@ window.GLOSSARY = [
   {
     id: "interespecifica",
     term: "Interespecífica",
-    cat: "Glosario",
+    cat: "Interacción entre especies",
     course: "05",
     def: "Es un tipo de interacción biológica que ocurre entre organismos de diferentes especies dentro de un ecosistema. Podríamos considerar también, que son relaciones ecológicas fundamentales para la supervivencia, la transferencia de energía y el mantenimiento del equilibrio ecológico."
   },
   {
     id: "lamelas",
     term: "Lamelas",
-    cat: "Glosario",
+    cat: "Estructuras reproductivas",
     course: "04",
     def: "También llamadas laminillas, constituyen las estructuras de la cara inferior del sombrero de un carpóforo o seta, que contienen las células de reproducción sexual del organismo. Esta estructura resguarda a los basidios, en donde se producen las balitosporas."
   },
   {
     id: "lepidopteros",
     term: "Lepidópteros",
-    cat: "Glosario",
+    cat: "Insectos voladores",
     course: "05",
     def: "Son un grupo de vida insecta conformada por mariposas (diurnas) y polillas (nocturnas)."
   },
   {
     id: "lignicola",
     term: "Lignícola",
-    cat: "Glosario",
+    cat: "Hábito lignícola",
     course: "05",
     def: "Creciendo sobre madera."
   },
   {
     id: "liquen",
     term: "Liquen",
-    cat: "Glosario",
+    cat: "Simbiosis liquénica",
     course: "01",
     def: "Es la estructura formada mediante la simbiosis de un hongo y un compañero fotosintético (algas, bacterias, cianobacterias). Los líquenes han desarrollado, en su historia evolutiva, adaptaciones morfológicas, anatómicas, fisiológicas y reproductivas que modelan sus estrategias ecológicas, y por lo tanto, su distribución a diferentes escalas espaciales."
   },
   {
     id: "lirelas",
     term: "Lirelas",
-    cat: "Glosario",
+    cat: "Estructuras reproductivas",
     course: "03",
     def: "Son estructuras reproductivas de un líquen, unos tipos de apotecios pequeños, alargados, con el himenio en forma de hendidura, a veces ramificados, con apariencia de escritura egipcia. Ejemplo: Liquen Graphis."
   },
   {
     id: "lobulo",
     term: "Lóbulo",
-    cat: "Glosario",
+    cat: "División foliosa",
     course: "05",
     def: "Cada una de las divisiones del talo foliáceo en su parte periférica; con borde redondeado, como arandelas o encajes, entonces se dice cuerpo o estructura lobulada, o también se diría festoneado."
   },
   {
     id: "longitud-de-onda",
     term: "Longitud de onda",
-    cat: "Glosario",
+    cat: "Distancia de onda",
     course: "01",
     def: "Es la distancia física que recorre una onda en un ciclo completo. Puede ser la distancia entre dos crestas (puntos más altos) o dos valles (puntos más bajos). Cuando la Longitud de onda es corta, percibimos en el ambiente tonos azules y grises; cuando es amplia, percibimos amarillos, naranjas y rojizos, pues atraviesan con mayor facilidad la capa ozónica."
   },
   {
     id: "maculas",
     term: "Máculas",
-    cat: "Glosario",
+    cat: "Ausencia de fotobionte",
     course: "05",
     def: "Área en la superficie del talo caracterizada por la ausencia del fotobionte, formando manchas pálidas pequeñas, redondeadas a irregulares o reticuladas."
   },
   {
     id: "manitol",
     term: "Manitol",
-    cat: "Glosario",
+    cat: "Azúcar higroscópico",
     course: "01",
     def: "Es una molécula compleja del grupo de los azúcares. El apéndice hilar de una espora, segrega esta sustancia funcionando como un imán que atrae a las microgotas de agua de la niebla y así, se pueden formar verdaderas gotas de agua."
   },
   {
     id: "matorral",
     term: "Matorral",
-    cat: "Glosario",
+    cat: "Etapa sucesional",
     course: "05",
     def: "Es una etapa sucesional importante en la regeneración ecológica, en la que se reúnen comunidades vegetales de arbustos, bejucos y herbáceas, preparando zonas de amortiguación para los futuros bosques."
   },
@@ -628,28 +628,28 @@ window.GLOSSARY = [
   {
     id: "microbioma",
     term: "Microbioma",
-    cat: "Glosario",
+    cat: "Comunidad microbiana",
     course: "05",
     def: "Son comunidades de microorganismos (bacterias, virus, hongos) que cohabitan un entorno específico."
   },
   {
     id: "montano",
     term: "Montano",
-    cat: "Glosario",
+    cat: "Biomas de montaña",
     course: "05",
     def: "Se refiere a los biomas que habitan en la altura de la montaña."
   },
   {
     id: "morfologia",
     term: "Morfología",
-    cat: "Glosario",
+    cat: "Adaptación estructural",
     course: "05",
     def: "Se ha interpretado como la expresión de finas adaptaciones a las características ecofisiológicas de la simbiosis y, además, constituyen un carácter taxonómico importante."
   },
   {
     id: "multiespecie",
     term: "Multiespecie",
-    cat: "Glosario",
+    cat: "Entramado biológico",
     course: "03",
     def: "Somos todos los núcleos integradores de vida, en la medida en que nos reconocemos como un complejo entramado que no determina el inicio ni el fin de una especie, sino que constituimos un gran holobionte interconectado con el juego de la vida."
   },
@@ -663,14 +663,14 @@ window.GLOSSARY = [
   {
     id: "organismo",
     term: "Organismo",
-    cat: "Glosario",
+    cat: "Seres vivos",
     course: "05",
     def: "Todos quienes compartimos la característica fundamental de estar vivos. Cada uno podemos variar en tamaño, forma y complejidad, pero dependemos del entorno para obtener alimento, agua y energía."
   },
   {
     id: "pajonal",
     term: "Pajonal",
-    cat: "Glosario",
+    cat: "Ecosistema de alta montaña",
     course: "05",
     def: "Es un ecosistema de alta montaña al que lo caracteriza la presencia de pastos andinos, zonas cubiertas de paja brava y vegetación silvestre."
   },
@@ -684,42 +684,42 @@ window.GLOSSARY = [
   {
     id: "pelos-corticales",
     term: "Pelos corticales",
-    cat: "Glosario",
+    cat: "Estructuras microscópicas",
     course: "05",
     def: "Son estructuras microscópicas formadas por extremos libres de las hifas del córtex o por la médula. Pueden captar mucha humedad. Suelen aparecer en líquenes foliáceos."
   },
   {
     id: "picnidios",
     term: "Picnidios",
-    cat: "Glosario",
+    cat: "Cuerpos fructíferos",
     course: "05",
     def: "Son estructuras diminutas en forma de matraz o botellita que funcionan como cuerpos fructíferos asexuales en muchos hongos y líquenes. Pueden producir, almacenar y liberar esporas asexuales llamadas conidios (o picnidiosporas) hacia el exterior."
   },
   {
     id: "pionera",
     term: "Pionera",
-    cat: "Glosario",
+    cat: "Especie colonizadora",
     course: "03",
     def: "Es un organismo con la facultad de promover situaciones ecológicas emergentes para la regeneración del bosque, su permanencia y resiliencia procurarán la llegada de especies de mayor complejidad."
   },
   {
     id: "pirogenica",
     term: "Pirogénica",
-    cat: "Glosario",
+    cat: "Afiliación al fuego",
     course: "05",
     def: "Son organismos con una fuerte afiliación al fuego. Por lo general pueden ser plantas o árboles con comportamiento pasivo, si arden con gran facilidad y alimentan incendios, y las pirófitas activas (o dependientes del fuego), cuyas semillas o flores requieren el calor o el humo para germinar y reproducirse."
   },
   {
     id: "podecios",
     term: "Podecios",
-    cat: "Glosario",
+    cat: "Estructuras de soporte",
     course: "03",
     def: "Son estructuras que dan cuerpo a los líquenes de tipo arbuscular o dimórfico que sostiene en su extremo los órganos reproductivos facilitando la dispersión de las esporas por el aire. Pueden ser alargados, ramificarse y tener formas de copa o de trompeta."
   },
   {
     id: "polinizacion",
     term: "Polinización",
-    cat: "Glosario",
+    cat: "Estrategia reproductiva",
     course: "01",
     def: "Es una estrategia multiespecie mediante la cual el polen se transfiere desde la parte masculina de una flor hasta la parte femenina de otra para permitir la fecundación de la planta, dando origen a la producción de semillas, flores y frutos. Puede ser polinización natural si es realizada por insectos (entomófila), aves (ornitófila) o murciélagos (quiropterófila). Si es abiótica, el polen se transporta por medios físicos como el viento (anemófila), por el agua (hidrófila)."
   },
@@ -733,63 +733,63 @@ window.GLOSSARY = [
   {
     id: "poliporal",
     term: "Poliporal",
-    cat: "Glosario",
+    cat: "Hongos porosos",
     course: "04",
     def: "Es el hábito de vida de hongos que tienen muchos poros en la parte inferior de sus frutos. Les llaman también hongos de repisa, sus cuerpos fructíferos son leñosos y juegan un rol vital en la capacidad regenerativa del bosque al poder reciclar maderas en descomposición y formar micorrizas para comunicarse con los árboles."
   },
   {
     id: "precipitacion",
     term: "Precipitación",
-    cat: "Glosario",
+    cat: "Caída de agua",
     course: "01",
     def: "Lluvia, llovizna, nieve, aguanieve, granizo."
   },
   {
     id: "proboscide",
     term: "Probóscide",
-    cat: "Glosario",
+    cat: "Aparato bucal",
     course: "02",
     def: "Aparato bucal de insectos en forma de lengua muy larga que se recoge en forma de espiral. Esto sucede principalmente en Lepidópteros (Polillas y Mariposas)."
   },
   {
     id: "pseudoisidios",
     term: "Pseudoisidios",
-    cat: "Glosario",
+    cat: "Reproducción asexual",
     course: "05",
     def: "Estructura de reproducción asexual en líquenes, semejandose a un isidio pero sin fotobionte. Pseudo significa que es algo “simulado” o que se parece a."
   },
   {
     id: "pulvinulado",
     term: "Pulvinulado",
-    cat: "Glosario",
+    cat: "Textura pulverulenta",
     course: "03",
     def: "Es el hábito de vida de algunos líquenes, musgos, hongos y de algas, que tiene una textura como de polvillo."
   },
   {
     id: "reflexion",
     term: "Reflexión",
-    cat: "Glosario",
+    cat: "Proceso mental",
     course: "05",
     def: "Es un proceso mental para meditar y evaluar profundamente sobre nuestras acciones, pensamientos o experiencias. Una pausa activa puede permitir la examinación sobre lo vivido para el surgimiento de nuevas perspectivas y aprendizaje refrescado. Recuerda que las reflexión de un explorador naturalista se da en 3 momentos: Una reflexión en la mirada, que nos llevará a una reflexión corporal, y al final, elaboramos una reflexión en el pensar. Acércate a observar y empieza de nuevo."
   },
   {
     id: "rizinas",
     term: "Rizinas",
-    cat: "Glosario",
+    cat: "Apéndices de fijación",
     course: "03",
     def: "Son apéndices similares a fibras ubicadas en la superficie inferior de talos liquénicos generalmente foliosos, compuestos por un manojo de hifas. Pueden considerarse como órganos de fijación simples o ramificados; se asemejan a pelos. Vitales para la filtración de nutrientes, el anclaje a un lugar o sustrato y para la comunicación multiespecie."
   },
   {
     id: "rizoides",
     term: "Rizoides",
-    cat: "Glosario",
+    cat: "Estructuras de raíz",
     course: "05",
     def: "Son fibrillas muy finas que se comportan como una estructura de raíz rudimentaria en organismos muy antiguos, como Briofitas (Musgos y hepáticas), hongos, helechos, líquenes y algas."
   },
   {
     id: "rizomorfos",
     term: "Rizomorfos",
-    cat: "Glosario",
+    cat: "Cordones miceliares",
     course: "05",
     def: "Cordones blancos o amarillentos engrosados que desarrollan determinados tipos de hongos basidiomicetes. Es la estructura micelial que podemos ver sin el uso de microscopio."
   },
@@ -803,35 +803,35 @@ window.GLOSSARY = [
   {
     id: "ruta-aaa-andesamazoniaatlantico",
     term: "Ruta AAA (Andes‐Amazonía‐Atlántico)",
-    cat: "Glosario",
+    cat: "Término biológico",
     course: "01",
     def: "Es el curso que la niebla revela al recorrer todos los ecosistemas, procurando su hidratación e interconexión. Mientras la niebla viaja por esta ruta, regula la arquitectura de moléculas de agua y micropartículas generadoras de lluvia o partículas aerosoles. Cuando va por la fase oceánica, microtornados envuelven vapores de agua para mantenerlos a una temperatura constante y fluir por los vientos hasta elevarse hacia los Andes. Cuando chocan con los afilados descarpes cordilleranos a gran altura, chocan con micropartículas suspendidas en la alta presión atmosférica, se enfrían estos vapores y pueden dispersarse hasta descender a la Amazonía en forma de ríos voladores que refrescan todos los diversos rincones dependientes de agua. Así, la niebla sincroniza un sistema hidroclimático integrado que envuelve todo un marco continental, regulando a su paso los flujos de vientos y agua."
   },
   {
     id: "saxicola-rupicola",
     term: "Saxícola/Rupícola",
-    cat: "Glosario",
+    cat: "Hábito saxícola",
     course: "05",
     def: "Creciendo sobre roca."
   },
   {
     id: "serendipia",
     term: "Serendipia",
-    cat: "Glosario",
+    cat: "Hallazgos inesperados",
     course: "05",
     def: "Sorpresas del Bosque. Hallazgos afortunados en el acto de la reflexión sensitiva, corporal y del pensar. Le sucede a los mejores observadores naturalistas en forma de descubrimientos inesperados."
   },
   {
     id: "seta",
     term: "Seta",
-    cat: "Glosario",
+    cat: "Fruto micelial",
     course: "01",
     def: "Puede ser un fruto del micelio, lo que icónicamente representamos como hongo. También se llama de esta manera a los pelos o vellosidades que se extienden sobre el cuerpo de los insectos, al tener características sensitivas agudas, pues por medio de estos microapéndices pueden oler, saborear o tener múltiples percepciones sobre su entorno (alimento cerca, cambios de temperatura y/o humedad, amenazas cercanas o depredadores). En algunas plantas también existen setas en forma de pelos que les permite la comunicación y percepción bioquímica con su entorno."
   },
   {
     id: "simbiosis",
     term: "Simbiosis",
-    cat: "Glosario",
+    cat: "Unión biológica",
     course: "02",
     def: "Unión íntima y duradera entre dos o más organismos. También puede considerarse como una asociación para el intercambio de funcionalidades vitales entre organismos vivientes. En algunas simbiosis los organismos implicados se benefician mutuamente, mientras que en otras no."
   },
@@ -852,7 +852,7 @@ window.GLOSSARY = [
   {
     id: "soralios",
     term: "Soralios",
-    cat: "Glosario",
+    cat: "Estructuras reproductivas",
     course: "05",
     def: "Son estructuras liquénicas especializadas para la reproducción asexual. Emergen de la capa externa del liquen, liberando pequeños grupos de algas y hongos llamados soredios, los cuales se dispersan por el viento o el agua para formar nuevos líquenes participando en la cultura regenerativa del bosque."
   },
@@ -866,7 +866,7 @@ window.GLOSSARY = [
   {
     id: "sustrato",
     term: "Sustrato",
-    cat: "Glosario",
+    cat: "Soporte físico",
     course: "05",
     def: "Soporte físico sobre el que puede asentarse un organismo, puede ser la corteza de un árbol, roca, suelo, musgos o briófitos."
   },
@@ -880,7 +880,7 @@ window.GLOSSARY = [
   {
     id: "taxon",
     term: "Taxón",
-    cat: "Glosario",
+    cat: "Clasificación biológica",
     course: "05",
     def: "Es un valor o identidad asignado para clasificar a los seres vivientes."
   },
@@ -894,14 +894,14 @@ window.GLOSSARY = [
   {
     id: "urceolada",
     term: "Urceolada",
-    cat: "Glosario",
+    cat: "Forma de campana",
     course: "02",
     def: "Es la geometría en forma de campana, o forma globosa que han conformado las estructuras florales en las plantas del Bosque de las Ericáceas, como estrategia para contener el néctar floral, evitando que sea lavado por la constante precipitación, vaciado por los fuertes vientos, o desecados por la intensa radiación en la alta montaña."
   },
   {
     id: "volva",
     term: "Volva",
-    cat: "Glosario",
+    cat: "Envoltura membranosa",
     course: "04",
     def: "Es la primera envoltura membranosa en forma de copa o de huevo ubicada en la base del tallo de algunas setas (como las Amanitas). Se forma cuando el hongo rompe su velo universal al crecer."
   }

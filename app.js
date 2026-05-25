@@ -262,6 +262,7 @@ import './glossary.js';
       html += `
         <button class="gloss-item" type="button" data-tid="${g.id}" data-course="${g.course || ''}">
           <span class="gi-term">${g.term}</span>
+          <span class="gi-cat">${g.cat}</span>
         </button>
       `;
     });
