@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/miradas-naturalistas/app/',
   build: {
-    outDir: 'dist',
+    outDir: '../app/miradas-naturalistas/app',
     assetsInlineLimit: 4096,
     rollupOptions: {
       input: 'index.html'
