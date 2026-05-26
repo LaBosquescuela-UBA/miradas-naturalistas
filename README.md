@@ -3,7 +3,7 @@
 ## Overview
 Sitio diseñado para **LaBosquescuela UBA**. El proyecto ofrece un recorrido inmersivo por el ecosistema de los Cerros Orientales de Bogotá a través de cinco micro-cursos, integrando fotografía de alta resolución, glosario interactivo y una bitácora personal para el visitante.
 
-**Producción**: [micro-cursos.labosquescuela.org](https://micro-cursos.labosquescuela.org)
+**Producción**: [labosquescuela.org/miradas-naturalistas/app](https://labosquescuela.org/miradas-naturalistas/app)
 
 ## Los Micro-cursos
 El itinerario se divide en cinco ejes temáticos que exploran la inteligencia natural del bosque andino y el páramo:
